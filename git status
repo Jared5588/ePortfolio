@@ -1,0 +1,55 @@
+[33mcommit 350af5bb00de56b95d9ab2332b35d82e3d7cf6f3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jared5588 <jrfuller@trevecca.edu>
+Date:   Sun Apr 12 18:16:03 2026 -0500
+
+    fixing image in css
+
+[33mcommit dc408b53d5f0560f7a6f879be7cdc0b9efcc6c3b[m
+Author: Jared5588 <jrfuller@trevecca.edu>
+Date:   Sun Apr 12 18:13:27 2026 -0500
+
+    fixing image defect
+
+[33mcommit 8a8d7535912fcb2196174f1fd37e56f4f64b2b72[m
+Author: Jared5588 <jrfuller@trevecca.edu>
+Date:   Sun Apr 12 18:02:09 2026 -0500
+
+    Fixed github link
+
+[33mcommit 3e8dabe2931ccb98a14c8c70c03ec26f673bf951[m
+Author: Jared5588 <jrfuller@trevecca.edu>
+Date:   Sun Apr 12 17:43:50 2026 -0500
+
+    Added more information and changed the style
+
+[33mcommit a2e947d45f978bff4ecc490308182ffcd69df4f9[m
+Author: Jared5588 <jrfuller@trevecca.edu>
+Date:   Sun Apr 12 11:45:37 2026 -0500
+
+    Base Site created
+
+[33mcommit cd6cd9a7eab3455e6af76407e11ec0d338dbba93[m
+Author: Jared5588 <jrfuller@trevecca.edu>
+Date:   Fri Apr 10 12:15:07 2026 -0500
+
+    I named Jared
+
+[33mcommit 455f1f64149f21f4c99a4ae5647e8784a10faac7[m
+Author: Jared5588 <jrfuller@trevecca.edu>
+Date:   Fri Apr 10 12:08:45 2026 -0500
+
+    change file name
+
+[33mcommit d95ad59ad1783ec8d484c465425b98231be0d190[m
+Author: Jared5588 <jrfuller@trevecca.edu>
+Date:   Fri Apr 10 11:33:02 2026 -0500
+
+    Add GitHub Actions workflow for GitHub Pages deployment
+    
+    This workflow automates the deployment of static content to GitHub Pages upon pushes to the main branch or manual triggers.
+
+[33mcommit 5b154ffe837f22e26f961a3501a8114e296bf9c7[m
+Author: Jared5588 <jrfuller@trevecca.edu>
+Date:   Wed Apr 8 11:35:47 2026 -0500
+
+    Add files via upload

@@ -98,8 +98,8 @@ h2::after {
 
 /* 4. Projects Section */
 #projects img {
-    width: /*100%*/40%;
-    max-width: /*500px*/40%;
+    width: 100%;
+    max-width: 500px;
     border-radius: 12px;
     border: 1px solid rgba(255,255,255,0.1);
     transition: var(--transition);
